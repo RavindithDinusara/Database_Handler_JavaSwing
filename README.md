@@ -3,9 +3,9 @@
 This application is a Java Swing-based tool for configuring MySQL database connections, performing backups using mysqldump.exe, and restoring SQL files using mysql.exe. It automatically saves all configuration settings to the user’s AppData directory so the user does not need to re-enter them each time. It provides a clean interface for database configuration, backup creation, and restore operations.
 
 ## UI Preview
-![Database Config Window](https://raw.githubusercontent.com/<username>/<repo>/main/screenshots/db-config.png)
-![Backup Screen](https://raw.githubusercontent.com/<username>/<repo>/main/screenshots/backup.png)
-![Restore Screen](https://raw.githubusercontent.com/<username>/<repo>/main/screenshots/restore.png)
+![Database Config Window]([https://raw.githubusercontent.com/<username>/<repo>/main/screenshots/db-config.png](https://github.com/RavindithDinusara/Database_Handler_JavaSwing/blob/main/Screenshot%202025-11-26%20115805.png))
+![Backup Screen]([https://raw.githubusercontent.com/<username>/<repo>/main/screenshots/backup.png](https://github.com/RavindithDinusara/Database_Handler_JavaSwing/blob/main/Screenshot%202025-11-26%20115816.png))
+![Restore Screen]([https://raw.githubusercontent.com/<username>/<repo>/main/screenshots/restore.png](https://github.com/RavindithDinusara/Database_Handler_JavaSwing/blob/main/Screenshot%202025-11-26%20115825.png))
 
 ## Features
 - Configure MySQL host, port, database name, username, and password
